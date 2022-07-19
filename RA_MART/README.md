@@ -3,7 +3,7 @@
 ### _☞Below I listed few steps to execute apmart web application_
 
 - **step-1** Downlord the project or clone the project 
-- **step-2** Import database file in your phpmyadmin ( loc:- RA MART Final Version -> ap_mart.sql ) 
+- **step-2** Import database file in your phpmyadmin ( loc:- RA MART Final Version -> ra_mart.sql ) 
 - **step-3** Open your netbeans then open RA MART Final Version Folder where you can find my project 
 - **step-4** Run the project and you will get output in your favourite browser
 
